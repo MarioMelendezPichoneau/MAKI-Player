@@ -1,0 +1,16 @@
+C:\Users\Kimberly10\Desktop\Diseño Centrado en el Usuario\Proyectos\MAKI Player\MAKI Player\bin\Debug\MAKI Player.exe.config
+C:\Users\Kimberly10\Desktop\Diseño Centrado en el Usuario\Proyectos\MAKI Player\MAKI Player\bin\Debug\MAKI Player.exe
+C:\Users\Kimberly10\Desktop\Diseño Centrado en el Usuario\Proyectos\MAKI Player\MAKI Player\bin\Debug\MAKI Player.pdb
+C:\Users\Kimberly10\Desktop\Diseño Centrado en el Usuario\Proyectos\MAKI Player\MAKI Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kimberly10\Desktop\Diseño Centrado en el Usuario\Proyectos\MAKI Player\MAKI Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kimberly10\Desktop\Diseño Centrado en el Usuario\Proyectos\MAKI Player\MAKI Player\obj\Debug\MAKI Player.csprojAssemblyReference.cache
+C:\Users\Kimberly10\Desktop\Diseño Centrado en el Usuario\Proyectos\MAKI Player\MAKI Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kimberly10\Desktop\Diseño Centrado en el Usuario\Proyectos\MAKI Player\MAKI Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kimberly10\Desktop\Diseño Centrado en el Usuario\Proyectos\MAKI Player\MAKI Player\obj\Debug\MAKI Player.csproj.ResolveComReference.cache
+C:\Users\Kimberly10\Desktop\Diseño Centrado en el Usuario\Proyectos\MAKI Player\MAKI Player\obj\Debug\MAKI_Player.Form1.resources
+C:\Users\Kimberly10\Desktop\Diseño Centrado en el Usuario\Proyectos\MAKI Player\MAKI Player\obj\Debug\MAKI_Player.Properties.Resources.resources
+C:\Users\Kimberly10\Desktop\Diseño Centrado en el Usuario\Proyectos\MAKI Player\MAKI Player\obj\Debug\MAKI Player.csproj.GenerateResource.cache
+C:\Users\Kimberly10\Desktop\Diseño Centrado en el Usuario\Proyectos\MAKI Player\MAKI Player\obj\Debug\MAKI Player.csproj.CoreCompileInputs.cache
+C:\Users\Kimberly10\Desktop\Diseño Centrado en el Usuario\Proyectos\MAKI Player\MAKI Player\obj\Debug\MAKI Player.exe
+C:\Users\Kimberly10\Desktop\Diseño Centrado en el Usuario\Proyectos\MAKI Player\MAKI Player\obj\Debug\MAKI Player.pdb
+C:\Users\Kimberly10\Desktop\Diseño Centrado en el Usuario\Proyectos\MAKI Player\MAKI Player\obj\Debug\MAKI Player.csproj.CopyComplete
